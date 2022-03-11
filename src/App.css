@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.min-w-heading {
+  min-width: 80px;
+}
+
+.min-w-search {
+  min-width: 180px;
+}
+
+.min-w-orderBy {
+  min-width: 180px;
+}
